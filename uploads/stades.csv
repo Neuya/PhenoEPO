@@ -1,0 +1,49 @@
+Code_stade,Description_stade
+Z00,Semence sèche
+Z01,Début de l'imbibition de la graine
+Z03,Imbibition complète
+Z05,La radicule sort de la graine
+Z06,Elongation de la radicule et apparition des poils absorbants
+Z07,Le coléoptile sort de la graine
+Z09,Levée : le coléoptile perce la surface du sol
+Z10,La première feuille sort du coléoptile
+Z11,La première feuille est étalée (ligule visible)
+Z12,Deux feuilles sont étalées
+Z13,Trois feuilles sont étalées
+Z19,Neuf feuilles ou davantage sont étalées
+Z21,Début du tallage : première talle visible
+Z22,2 talles visibles
+Z23,Trois talles visibles
+Z26,Plein tallage
+Z30,"Fin du tallage, début montaison : pseudo tiges et talles dressés, début d'élongation du premier entrenoeud"
+Z31,Le premier nœud est au plus à 1 cm au dessus du plateau de tallage
+Z32,Le premier nœud est au plus à 1 cm au dessus du plateau de tallage
+Z37,"La dernière feuille est juste visible, encore enroulée"
+Z39,La dernière feuille est étallée
+Z41,Début du gonflement de l'épi : élongation de la gaine foliaire de la dernière feuille
+Z43,La gaine foliaire de la dernière feuille est visiblement gonflée
+Z45,Gonflement maximal de la gaine foliaire de la dernière feuille
+Z47,La gaine foliaire de la dernière feuille s'ouvre
+Z49,Les premières barbes sont visibles
+Z50,Emergence de l'épi
+Z51,"Début de l'épiaison : l'extrémité de l'inflorescence est sortie de la graine, l'épillet supérieur est visible"
+Z52,20% de l'inflorescence est sortie
+Z53,30% de l'inflorescence est sortie
+Z55,Mi-épiaison : 50 % de l'inflorescence est sortie
+Z59,Fin de l'épiaison : l'inflorescence est complètement sortie de la gaine
+Z60,Début floraison
+Z61,"Début floraison, les premières anthères sont visibles"
+Z65,Pleine floraison : 50% des anthères sont sorties
+Z69,"Fin floraison : tous les épillets ont fleuri, quelques anthères déséchées peuvent subsister"
+Z71,Stade aqueux : les premières graines ont atteint la moitié de leur taille finale
+Z73,Début du stade laiteux
+Z75,"Stade milaiteux : contenu de la graine laiteux, les graines ont atteint leur taille finale mais sont toujours vertes"
+Z77,Fin du stade laiteux
+Z83,Début du stade pâteux
+Z85,Stade pâteux mou : contenu de la graine tendre mais sec
+Z87,Stade pâteux dur: contenu de la graine dur
+Z89,"Maturation complète : caryopse dur, difficile à couper"
+Z92,Sur-maturité : caryopse très dur
+Z93 ,Des graines se détachent
+Z97,La plante meurt et s'affaisse
+Z99,Produit après récolte

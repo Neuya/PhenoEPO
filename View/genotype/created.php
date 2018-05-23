@@ -1,0 +1,3 @@
+<?php
+
+echo "DONNEES GENOTYPES INSEREES";
